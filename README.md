@@ -96,7 +96,7 @@
 | DOMAIN | 自定义域名 | 是 | example.workers.dev |
 | DATABASE | D1 数据库绑定变量名称 | 是 | DATABASE |
 | TG_BOT_TOKEN | Telegram Bot Token | 是 | 123456789:ABCdefGHIjklMNOpqrsTUVwxyz |
-| TG_CHAT_ID | Telegram 频道/群组 ID | 是 | -100xxxxxxxxxx |
+| TG_CHAT_ID | Telegram 频道/群组 ID(可以是用户id) | 是 | -100xxxxxxxxxx |
 | USERNAME | 管理员用户名 | 是 | admin |
 | PASSWORD | 管理员密码 | 是 | password123 |
 | ADMIN_PATH | 管理后台路径 | 是 | admin |
